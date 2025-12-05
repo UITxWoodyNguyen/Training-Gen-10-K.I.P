@@ -67,13 +67,18 @@
 - **Nếu bạn được phân công có quá nhiều công việc**: ưu tiên công việc có mức độ quan trọng hơn, chia nhỏ công việc theo thời hạn
 - Có thể nhắc deadline **chung** trong nhóm (nhắc chung) hoặc **nhắn tin riêng**
 - **Thời gian nhắc deadline**: nên rải rác, tránh tình trạng nhắc deadline sát ngày
+    > Ví dụ: Nhắc cách 5 ngày, 3 ngày, 1 ngày trước deadline.
+- Có thể nhắc deadline của nhiều task cùng lúc.
+- Tag tên cụ thể thành viên phụ trách khi nhắc deadline.
 - Nếu bạn phụ trách gặp khó khăn công công việc, có thể hỏi thăm và **hỗ trợ** (nếu có thể) hoặc báo cáo trưởng ban để nhờ thêm các bạn khác hỗ trợ.
 - **Chủ động**: nếu bạn đang bận không kịp nhắc deadline, hãy nhờ bạn khác phụ trách chung ban/ nhắn lên group để được hỗ trợ.
 
 ### Tổ chức bonding
 - Các bước tổ chức bonding cho CLB:
 
-    - Xác định mục đích buổi bonding (Hello Newbie, Bonding tổng kết sự kiện, Goodbye Oldbie,...)
+    - Xác định mục đích buổi bonding (Hello Newbie, Bonding tổng kết sự kiện, Goodbye Oldbie,...).
+    - Xác định đối tượng trung tâm của buổi bonding để linh hoạt trong việc chọn thời gian.
+      > Ví dụ: HLNB thì ưu tiên khung giờ các bạn gen mới đi đông, GBOB thì ưu tiên khung giờ các a/c 12 đi đông,...
     - Quy mô buổi bonding: 
         - Số lượng thành viên tham gia (mở vote qua [When2meet](https://www.when2meet.com/), messenger,...)
         - Từ kết quả vote, xác định địa điểm phù hợp. Nếu có thể, khuyến khích liên hệ trước với địa điểm bonding để họ có sự sắp xếp trước.
