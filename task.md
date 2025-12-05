@@ -50,6 +50,6 @@ Giả sử đây là một sheet câu trả lời được cắt ra từ form tu
 ## Hình thức nộp task
 
 - Sản phẩm cuối cùng đối với Minitask này bao gồm:
-    - Một email gửi về địa chỉ ở trên.
+    - Một email **ĐƯỢC LÊN LỊCH VÀO THỜI ĐIỂM DEADLINE (19H00, 18/12/2025)** gửi về địa chỉ ở trên.
     - Một file Google Sheet cho Task 2 và file docs/PDF cho Task 1 của các bạn.
 - Các file sản phẩm nộp vào link: [K.I.P - MINITASK GEN 10](https://drive.google.com/drive/folders/1Bb8TKJCvUj-mfXaauhcr4NuMPy2PStVG?usp=drive_link)
