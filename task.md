@@ -24,7 +24,7 @@ Giả sử, sự kiện được tổ chức với quy mô 100 đội chơi. Ban
 - Trích dẫn lại nguồn tư liệu tham khảo nếu có thể.
 
 ### Sheet tên đội và danh sách thành viên
-- [TASK 1 DATA](https://docs.google.com/spreadsheets/d/1nFGBsTncKAdpq3Dc2GPtdvYtBx4ud-wYKx3zM_QP0og/edit?usp=drive_link)
+- [SHEET CHIA TEAM](https://docs.google.com/spreadsheets/d/1nFGBsTncKAdpq3Dc2GPtdvYtBx4ud-wYKx3zM_QP0og/edit?usp=drive_link)
 
 ---
 
