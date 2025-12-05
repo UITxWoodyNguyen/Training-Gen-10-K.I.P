@@ -2,7 +2,7 @@
 ###### Author: Nguyễn Minh Thành - Trưởng ban Nhân sự K.I.P Gen 9
 
 ## Task 1
-Dưới đây là một template email chưa được hoàn thiện: [DANH SÁCH TEAM - TBG7](https://hackmd.io/@thanhnguyne2403/rkwF2_AWWx)
+Dưới đây là một template email chưa được hoàn thiện: [DANH SÁCH TEAM - TBG7](https://github.com/UITxWoodyNguyen/Training-Gen-10-K.I.P/blob/main/demo.md)
 
 ### Task 1.1
 
