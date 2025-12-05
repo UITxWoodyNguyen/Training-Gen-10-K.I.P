@@ -42,6 +42,14 @@ Giả sử đây là một sheet câu trả lời được cắt ra từ form tu
     - Trong sheet con "Thông tin cá nhân", add thêm 1 cột lưu kết quả (`Trúng tuyển/Không trúng tuyển/Không qua vòng đơn`)
  
 ### Lưu ý
+- Các bạn trong ban tự phân chia công việc để làm task này
 - Cách trình bày đẹp mắt, khoa học, font chữ, size chữ tự chọn.
 - Dữ liệu các sheet con chứa câu trả lời **chỉ bao gồm Họ tên và câu trả lời form**, không bao gồm các thông tin cá nhân khác.
 - Khi sửa lỗi chính tả/đánh máy không cần thêm dấu.
+
+## Hình thức nộp task
+
+- Sản phẩm cuối cùng đối với Minitask này bao gồm:
+    - Một email gửi về địa chỉ ở trên.
+    - Một file Google Sheet cho Task 2 và file docs/PDF cho Task 1 của các bạn.
+- Các file sản phẩm nộp vào link: [K.I.P - MINITASK GEN 10](https://drive.google.com/drive/folders/1Bb8TKJCvUj-mfXaauhcr4NuMPy2PStVG?usp=drive_link)
