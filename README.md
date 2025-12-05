@@ -4,6 +4,6 @@
 ## Nội dung cụ thể
 | File | Content | 
 | :---: | :---: |
-| [K.I.P] TRAINING BAN NHÂN SỰ | Nội dung buổi training |
-| [K.I.P] Minitask Training ban Nhân sự - Gen 10 | Minitask sau training |
-| Demo Email - Task 1 | Demo Mail cho Task 1 |
+| training_content.md | Nội dung buổi training |
+| task.md | Minitask sau training |
+| demo.md | Demo Mail cho Task 1 |
