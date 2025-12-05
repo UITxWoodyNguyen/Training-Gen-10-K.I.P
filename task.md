@@ -1,6 +1,8 @@
 # [K.I.P] Minitask Training ban Nhân sự - Gen 10
 ###### Author: Nguyễn Minh Thành - Trưởng ban Nhân sự K.I.P Gen 9
 
+## DEADLINE MINITASK: **19H00, THỨ 5, 18/12/2025**
+
 ## Task 1
 Dưới đây là một template email chưa được hoàn thiện: [DANH SÁCH TEAM - TBG7](https://github.com/UITxWoodyNguyen/Training-Gen-10-K.I.P/blob/main/demo.md)
 
@@ -11,7 +13,7 @@ Dưới đây là một template email chưa được hoàn thiện: [DANH SÁCH
     - Chọn 1 tên đội bất kì theo sheet dữ liệu đính kèm
     - Gắn link thông tin cá nhân thành viên của đội đó và để dưới dạng rút gọn.
     - Link thông tin cá nhân chỉ là **link giả**, hoàn toàn **không tồn tại**.
-- Gửi về gmail ` ` sau khi hoàn thành task trên ở chế độ "Bcc".
+- Gửi về gmail `thanh24032007@gmail.com` sau khi hoàn thành task trên ở chế độ "Bcc".
 
 ### Task 1.2
 
@@ -27,3 +29,19 @@ Giả sử, sự kiện được tổ chức với quy mô 100 đội chơi. Ban
 ---
 
 ## Task 2
+Giả sử đây là một sheet câu trả lời được cắt ra từ form tuyển thành viên của CLB: [RECRUITMENT - K.I.P](https://docs.google.com/spreadsheets/d/11oniwCUh14CsB5l7hFLk5D2rTbbzBw6wFMKeCWkq38g/edit?usp=sharing)
+
+### Yêu cầu
+
+- Từ sheet gốc trên, trình bày lại một sheet mới với các yêu cầu cụ thể sau:
+    
+    - Tách thành 6 sheet con, gồm 1 sheet lưu lại thông tin cá nhân (Họ tên - lớp - SĐT - Email - Facebook - Ban ứng tuyển), và 5 sheet còn lại lưu lại câu trả lời form của các ứng viên apply vào 5 ban trong CLB.
+    - Dữ liệu do các ứng viên nhập vào có thể bị lỗi đánh máy/lỗi chính tả, chỉnh sửa lại tất cả các lỗi đó.
+    - Link Facebook của các ứng viên chuyển hết về dạng rút gọn.
+    - Thông tin về lớp của các ứng viên chuyển lại theo định dạng **Trình đơn thả xuống**.
+    - Trong sheet con "Thông tin cá nhân", add thêm 1 cột lưu kết quả (`Trúng tuyển/Không trúng tuyển/Không qua vòng đơn`)
+ 
+### Lưu ý
+- Cách trình bày đẹp mắt, khoa học, font chữ, size chữ tự chọn.
+- Dữ liệu các sheet con chứa câu trả lời **chỉ bao gồm Họ tên và câu trả lời form**, không bao gồm các thông tin cá nhân khác.
+- Khi sửa lỗi chính tả/đánh máy không cần thêm dấu.
