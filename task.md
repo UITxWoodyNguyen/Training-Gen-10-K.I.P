@@ -1,7 +1,7 @@
 # [K.I.P] Minitask Training ban Nhân sự - Gen 10
 ###### Author: Nguyễn Minh Thành - Trưởng ban Nhân sự K.I.P Gen 9
 
-## DEADLINE MINITASK: **19H00, THỨ 5, 18/12/2025**
+## DEADLINE MINITASK: **19H00, THỨ 5, 28/12/2025**
 
 ## Task 1
 Dưới đây là một template email chưa được hoàn thiện: [DANH SÁCH TEAM - TBG7](https://github.com/UITxWoodyNguyen/Training-Gen-10-K.I.P/blob/main/demo.md)
